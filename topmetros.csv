@@ -1,0 +1,101 @@
+geoid,name,population_e,white_e,black_e,asian_e,amind_e,hawpi_e,latino_e,medhhincome_e,inpoverty_e,fullname,shortname
+10420,Akron,703479,556281,86575,21443,921,77,15607,57158,95366,"Akron, OH Metro Area",Akron
+10580,Albany-Schenectady-Troy,880381,695503,63218,39384,309,431,47737,73398,87059,"Albany-Schenectady-Troy, NY Metro Area",Albany
+10740,Albuquerque,914480,351450,21557,20725,47550,204,452830,58512,139854,"Albuquerque, NM Metro Area",Albuquerque
+10900,Allentown-Bethlehem-Easton,844052,601582,44238,23656,1594,221,154219,70793,76252,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",Allentown
+12060,Atlanta-Sandy Springs-Alpharetta,6018744,2762575,2057902,364660,11111,3882,661048,71742,623646,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",Atlanta
+12260,Augusta-Richmond County,610648,327851,213254,9443,344,127,34777,55143,78690,"Augusta-Richmond County, GA-SC Metro Area",Augusta
+12420,Austin-Round Rock-Georgetown,2227083,1148682,153023,134525,5203,265,726124,80954,221105,"Austin-Round Rock-Georgetown, TX Metro Area",Austin
+12540,Bakersfield,900202,295068,44566,41093,4285,907,491545,53067,166768,"Bakersfield, CA Metro Area",Bakersfield
+12580,Baltimore-Columbia-Towson,2800053,1552705,819019,158765,6341,995,175277,83160,258075,"Baltimore-Columbia-Towson, MD Metro Area",Baltimore
+12940,Baton Rouge,854884,482361,307524,16900,1266,0,36210,60746,125069,"Baton Rouge, LA Metro Area",Baton Rouge
+13820,Birmingham-Hoover,1090435,671997,333866,15954,2293,0,49544,58366,149331,"Birmingham-Hoover, AL Metro Area",Birmingham
+14260,Boise City,749057,595861,7723,13311,3926,791,104530,66466,72288,"Boise City, ID Metro Area",Boise
+14460,Boston-Cambridge-Newton,4873019,3370620,377690,400301,7813,2036,567741,94430,403821,"Boston-Cambridge-Newton, MA-NH Metro Area",Boston
+14860,Bridgeport-Stamford-Norwalk,943332,571144,104408,50244,444,516,193772,97053,84006,"Bridgeport-Stamford-Norwalk, CT Metro Area",Bridgeport
+15380,Buffalo-Cheektowaga,1127983,865687,134068,37084,7005,406,59939,60105,144134,"Buffalo-Cheektowaga, NY Metro Area",Buffalo
+15980,Cape Coral-Fort Myers,770577,508536,63074,12450,1219,951,173497,62240,86157,"Cape Coral-Fort Myers, FL Metro Area",Ft. Myers
+16700,Charleston-North Charleston,802122,514827,194919,15737,1329,4628,47070,70505,83348,"Charleston-North Charleston, SC Metro Area",Charleston
+16740,Charlotte-Concord-Gastonia,2636883,1580133,597299,100852,7499,915,279017,66399,250656,"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte
+16860,Chattanooga,566153,441000,73992,9090,1182,338,26530,55366,70104,"Chattanooga, TN-GA Metro Area",Chattanooga
+16980,Chicago-Naperville-Elgin,9457867,4942746,1521704,645039,9345,2543,2132755,75379,981876,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",Chicago
+17140,Cincinnati,2219750,1751078,266918,61327,1154,709,75803,66825,245500,"Cincinnati, OH-KY-IN Metro Area",Cincinnati
+17460,Cleveland-Elyria,2048449,1419057,397688,50763,3647,498,125987,57228,270360,"Cleveland-Elyria, OH Metro Area",Cleveland
+17820,Colorado Springs,745791,515694,41319,19785,3544,2127,128854,72633,61364,"Colorado Springs, CO Metro Area",Colorado Springs
+17900,Columbia,839039,466005,286367,18964,2358,939,45228,55725,120776,"Columbia, SC Metro Area",Columbia
+18140,Columbus,2122271,1523369,335335,95561,3405,463,93595,67207,238356,"Columbus, OH Metro Area",Columbus
+19100,Dallas-Fort Worth-Arlington,7573136,3399834,1201305,551059,22777,7775,2219072,72265,782288,"Dallas-Fort Worth-Arlington, TX Metro Area",Dallas
+19430,Dayton-Kettering,807611,611941,118202,16749,1528,744,24331,58169,105802,"Dayton-Kettering, OH Metro Area",Dayton
+19660,Deltona-Daytona Beach-Ormond Beach,668365,475912,66576,13626,1184,870,95456,54533,81633,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",Daytona
+19740,Denver-Aurora-Lakewood,2967239,1884797,163765,124648,13841,2752,690801,85641,232135,"Denver-Aurora-Lakewood, CO Metro Area",Denver
+19780,Des Moines-West Des Moines,699292,564539,41080,29158,1446,0,51619,71164,59509,"Des Moines-West Des Moines, IA Metro Area",Des Moines
+19820,Detroit-Warren-Dearborn,4319629,2847085,946751,205380,12357,1074,200680,63474,540135,"Detroit-Warren-Dearborn, MI Metro Area",Detroit
+20500,Durham-Chapel Hill,644367,354223,166096,28432,889,373,72700,65303,85730,"Durham-Chapel Hill, NC Metro Area",Durham
+21340,El Paso,843725,98335,25551,9497,2845,100,699471,48823,154535,"El Paso, TX Metro Area",El Paso
+23420,Fresno,999101,285269,43602,101152,6251,1811,537180,57518,202698,"Fresno, CA Metro Area",Fresno
+24340,Grand Rapids-Kentwood,1077370,839783,66382,27625,2106,48,106409,65739,110098,"Grand Rapids-Kentwood, MI Metro Area",Grand Rapids
+24660,Greensboro-High Point,771851,441693,205910,28622,3352,228,68176,51770,123872,"Greensboro-High Point, NC Metro Area",Greensboro
+24860,Greenville-Anderson,920477,664937,143302,18599,2316,1504,66451,58621,111996,"Greenville-Anderson, SC Metro Area",Greenville
+25420,Harrisburg-Carlisle,577941,437074,61722,25276,968,0,39611,67069,51192,"Harrisburg-Carlisle, PA Metro Area",Harrisburg
+25540,Hartford-East Hartford-Middletown,1204877,791250,126858,64143,2369,543,186787,77005,117552,"Hartford-East Hartford-Middletown, CT Metro Area",Hartford
+26420,Houston-The Woodlands-Sugar Land,7066140,2481188,1190236,550675,14943,3229,2682311,69193,899953,"Houston-The Woodlands-Sugar Land, TX Metro Area",Houston
+26900,Indianapolis-Carmel-Anderson,2076531,1481117,316994,76977,2779,177,145561,62502,212842,"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis
+27140,Jackson,594800,267643,297075,7574,1701,0,13940,52426,88296,"Jackson, MS Metro Area",Jackson
+27260,Jacksonville,1559514,967816,331204,57688,5062,757,148108,65880,174904,"Jacksonville, FL Metro Area",Jacksonville
+28140,Kansas City,2155068,1552217,263049,62135,6605,4696,200662,70215,219269,"Kansas City, MO-KS Metro Area",Kansas City
+28940,Knoxville,869525,746678,49400,13301,3274,443,36375,56623,119834,"Knoxville, TN Metro Area",Knoxville
+29460,Lakeland-Winter Haven,724777,410125,106158,12156,2613,88,178402,51833,99344,"Lakeland-Winter Haven, FL Metro Area",Lakeland
+29820,Las Vegas-Henderson-Paradise,2266715,935092,269990,222607,10944,16202,717278,62107,287386,"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas
+30780,Little Rock-North Little Rock-Conway,744483,496372,174799,12124,1624,700,40401,56849,100875,"Little Rock-North Little Rock-Conway, AR Metro Area",Little Rock
+31080,Los Angeles-Long Beach-Anaheim,13214799,3857886,829224,2125243,29631,32318,5963061,77774,1617730,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Los Angeles
+31140,Louisville/Jefferson County,1266389,951059,190032,28292,1402,532,67747,61172,148048,"Louisville/Jefferson County, KY-IN Metro Area",Louisville
+31540,Madison,664865,542987,28326,34077,2164,472,39498,75545,57854,"Madison, WI Metro Area",Madison
+32580,McAllen-Edinburg-Mission,868707,48417,3622,8088,492,0,803455,41800,234015,"McAllen-Edinburg-Mission, TX Metro Area",McAllen
+32820,Memphis,1344910,574888,637447,30021,1902,140,78146,54859,202488,"Memphis, TN-MS-AR Metro Area",Memphis
+33100,Miami-Fort Lauderdale-Pompano Beach,6166488,1817027,1233921,152893,8047,2392,2842930,60141,821703,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",Miami
+33340,Milwaukee-Waukesha,1575179,1038783,254714,59962,5684,473,174755,65845,182983,"Milwaukee-Waukesha, WI Metro Area",Milwaukee
+33460,Minneapolis-St. Paul-Bloomington,3640043,2715215,312561,250271,14133,1058,218594,83698,292422,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",Minneapolis
+34980,Nashville-Davidson--Murfreesboro--Franklin,1933860,1380076,292433,56774,4422,1243,146971,70262,189007,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville
+35300,New Haven-Milford,854757,525972,109184,33958,660,41,163616,69751,100626,"New Haven-Milford, CT Metro Area",New Haven
+35380,New Orleans-Metairie,1270530,647623,441694,36914,4984,75,114764,55710,204819,"New Orleans-Metairie, LA Metro Area",New Orleans
+35620,New York-Newark-Jersey City,19216182,8674519,3016880,2192841,26584,3373,4808471,83160,2189593,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",New York
+35840,North Port-Sarasota-Bradenton,836995,642107,52937,15744,1165,35,109563,65526,75727,"North Port-Sarasota-Bradenton, FL Metro Area",Sarasota
+36260,Ogden-Clearfield,683024,550130,6600,11533,3173,3727,90911,79251,37708,"Ogden-Clearfield, UT Metro Area",Ogden
+36420,Oklahoma City,1408950,895599,143228,46776,52678,774,194888,60605,181062,"Oklahoma City, OK Metro Area",Oklahoma City
+36540,Omaha-Council Bluffs,949726,716104,72636,29038,4766,998,103063,70373,84979,"Omaha-Council Bluffs, NE-IA Metro Area",Omaha
+36740,Orlando-Kissimmee-Sanford,2608147,1177581,403976,114511,4244,1983,832426,61876,309279,"Orlando-Kissimmee-Sanford, FL Metro Area",Orlando
+37100,Oxnard-Thousand Oaks-Ventura,846006,376524,15062,62586,1639,925,365835,92236,66011,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",Oxnard
+37340,Palm Bay-Melbourne-Titusville,601942,443227,50620,15018,1021,623,65612,57305,51942,"Palm Bay-Melbourne-Titusville, FL Metro Area",Palm Bay
+37980,Philadelphia-Camden-Wilmington,6102434,3719986,1241680,372629,8076,1645,601242,74533,699913,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",Philadelphia
+38060,Phoenix-Mesa-Chandler,4948203,2696587,268757,193178,98297,10635,1551131,67896,587560,"Phoenix-Mesa-Chandler, AZ Metro Area",Phoenix
+38300,Pittsburgh,2317600,1968599,187078,56398,1503,310,43672,62638,246125,"Pittsburgh, PA Metro Area",Pittsburgh
+38900,Portland-Vancouver-Hillsboro,2493221,1803456,69496,172633,13980,12753,309230,78439,236844,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland
+39100,Poughkeepsie-Newburgh-Middletown,679158,448859,73801,20854,646,268,120962,85152,70140,"Poughkeepsie-Newburgh-Middletown, NY Metro Area",Poughkeepsie
+39300,Providence-Warwick,1624578,1203625,87900,49368,3781,339,221210,70967,173218,"Providence-Warwick, RI-MA Metro Area",Providence
+39340,Provo-Orem,649603,531583,2802,8588,2317,5903,78060,79152,63274,"Provo-Orem, UT Metro Area",Provo
+39580,Raleigh-Cary,1390785,843984,274282,85820,4813,95,151259,80096,121022,"Raleigh-Cary, NC Metro Area",Raleigh
+40060,Richmond,1290866,735828,377996,50024,2922,259,85506,68324,126045,"Richmond, VA Metro Area",Richmond
+40140,Riverside-San Bernardino-Ontario,4650631,1428811,320161,322238,18275,14506,2422840,70954,555948,"Riverside-San Bernardino-Ontario, CA Metro Area",Riverside
+40380,Rochester,1069644,813931,116164,29367,1836,187,83007,62104,127350,"Rochester, NY Metro Area",Rochester
+40900,Sacramento-Roseville-Folsom,2363730,1212448,159301,321496,11084,20709,519915,76706,276966,"Sacramento-Roseville-Folsom, CA Metro Area",Sacramento
+41180,St. Louis,2801423,2057111,503088,76706,6116,1925,88038,66417,272601,"St. Louis, MO-IL Metro Area",St. Louis
+41620,Salt Lake City,1232696,872325,22262,48199,8165,18466,227598,80196,104645,"Salt Lake City, UT Metro Area",Salt Lake City
+41700,San Antonio-New Braunfels,2550960,846420,160748,62462,5446,2607,1420687,62355,338954,"San Antonio-New Braunfels, TX Metro Area",San Antonio
+41740,San Diego-Chula Vista-Carlsbad,3338330,1495234,156423,394644,12301,12648,1140033,83985,333862,"San Diego-Chula Vista-Carlsbad, CA Metro Area",San Diego
+41860,San Francisco-Oakland-Berkeley,4731803,1827248,341500,1269163,11524,29935,1033922,114696,380982,"San Francisco-Oakland-Berkeley, CA Metro Area",San Francisco
+41940,San Jose-Sunnyvale-Santa Clara,1990660,607034,46665,726115,3657,6763,520512,130865,123477,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",San Jose
+42660,Seattle-Tacoma-Bellevue,3979845,2453681,233991,578873,30172,30954,412836,94027,305079,"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle
+44060,Spokane-Spokane Valley,568521,478111,10973,12200,9133,3464,33596,59646,73074,"Spokane-Spokane Valley, WA Metro Area",Spokane
+44140,Springfield,697382,483119,37479,21185,828,289,135189,62346,83122,"Springfield, MA Metro Area",Springfield
+44700,Stockton,762148,231286,50665,120669,2254,4944,320334,68997,101591,"Stockton, CA Metro Area",Stockton
+45060,Syracuse,648593,527250,52053,18889,2737,14,28263,61213,85841,"Syracuse, NY Metro Area",Syracuse
+45300,Tampa-St. Petersburg-Clearwater,3194831,1960618,370765,108973,5876,1980,656696,57906,389600,"Tampa-St. Petersburg-Clearwater, FL Metro Area",Tampa
+45780,Toledo,641816,482276,83540,10156,1504,827,44860,53563,95628,"Toledo, OH Metro Area",Toledo
+46060,Tucson,1047279,535435,35055,28844,25427,1599,395446,56169,140703,"Tucson, AZ Metro Area",Tucson
+46140,Tulsa,998655,640921,77246,26297,74378,811,104015,57859,133464,"Tulsa, OK Metro Area",Tulsa
+46520,Urban Honolulu,974563,173536,23550,421598,2062,93332,97281,87470,76644,"Urban Honolulu, HI Metro Area",Honolulu
+47260,Virginia Beach-Norfolk-Newport News,1765031,963018,531398,69659,2003,1255,126008,69329,180581,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",Virginia Beach
+47900,Washington-Arlington-Alexandria,6280697,2806870,1563337,645564,14854,2887,1021386,105659,465533,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington
+48620,Wichita,640218,455345,45802,23534,3575,122,85817,59779,73089,"Wichita, KS Metro Area",Wichita
+49180,Winston-Salem,676008,456532,120075,11655,2328,185,72231,52322,105816,"Winston-Salem, NC Metro Area",Winston-Salem
+49340,Worcester,947404,716065,40788,43894,1355,340,115630,76348,89286,"Worcester, MA-CT Metro Area",Worcester
