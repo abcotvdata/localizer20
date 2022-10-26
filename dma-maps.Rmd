@@ -1,0 +1,121 @@
+---
+title: "native-land-dmas"
+author: "Grace Manthey"
+date: "10/25/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r, echo=FALSE, warning=FALSE}
+
+library(tidyverse)
+library(tidycensus)
+library(leaflet)
+library(htmlwidgets)
+library(htmltools)
+library(leaflet.extras)
+library(sf)
+library(geojsonsf)
+library(rgdal)
+
+options(tigris_use_cache = TRUE)
+```
+
+
+
+```{r, echo=FALSE, warning=FALSE}
+
+localizer <- read.csv("uscounties.csv")
+
+DMAs <- localizer %>% 
+  filter(!is.na(DMA)) %>% 
+  mutate(geoid = as.character(geoid)) %>% 
+  mutate(geoid = str_pad(geoid, 5, pad = "0"))
+
+```
+
+```{r, echo=FALSE, warning=FALSE}
+censusvariables = c(population = "B03002_001")
+
+
+all_counties <- get_acs(geography = "county",
+                output = 'wide',
+                year = 2019,
+                variables = censusvariables,
+                geometry = TRUE) %>% 
+  janitor::clean_names() %>% 
+  mutate(geoid = as.character(geoid)) %>%
+  select(geoid, geometry)
+  
+
+DMA_counties <- right_join(all_counties, DMAs, by="geoid")
+
+
+#convert to sf
+#DMA_counties_sf <- st_as_sf(DMA_counties, coords = c("lon", "lat"), crs = "4326")
+
+
+#export as geojson
+st_write(DMA_counties, "DMA_counties.geojson", append = FALSE)
+
+
+
+```
+
+```{r, echo=FALSE, warning=FALSE}
+
+factpal <- colorFactor(topo.colors(8), DMA_counties$DMA)
+
+dma_map <- leaflet(options = leafletOptions(zoomControl = FALSE)) %>%
+  addProviderTiles("CartoDB.Positron") %>%
+  htmlwidgets::onRender("function(el, x) {
+        L.control.zoom({ position: 'topright' }).addTo(this)
+    }") %>% #this moves the zoom control over to the right side
+  #setView(-118, 34, zoom = 9) %>% #this makes the zoom start at a certain place...if it's commented out it just automatically decides
+  addPolygons(data = DMA_counties, 
+              fillColor = ~factpal(DMA), 
+              color = 'white',
+              fillOpacity = 0.8, 
+              weight = 0.5, 
+              smoothFactor = 0.2,) %>% 
+  addLegend(pal = factpal, 
+            values = DMA_counties$DMA, 
+            position = "bottomleft", 
+            title = "DMA")
+
+dma_map
+
+saveWidget(dma_map, 'dma_map.html', title = "ABC OTV DMA Map", selfcontained = TRUE)
+
+```
+
+```{r, echo=FALSE, warning=FALSE}
+
+```
+
+```{r, echo=FALSE, warning=FALSE}
+
+```
+
+```{r, echo=FALSE, warning=FALSE}
+
+```
+
+```{r, echo=FALSE, warning=FALSE}
+
+```
+
+```{r, echo=FALSE, warning=FALSE}
+
+```
+
+```{r, echo=FALSE, warning=FALSE}
+
+```
+
+
